@@ -1,0 +1,9 @@
+[submodule "recipe-config-server"]
+	path = recipe-config-server
+	url = https://github.com/DilmiSandamini/recipe-config-server.git
+[submodule "recipe-eureka-server"]
+	path = recipe-eureka-server
+	url = https://github.com/DilmiSandamini/recipe-eureka-server.git
+[submodule "recipe-api-gateway"]
+	path = recipe-api-gateway
+	url = https://github.com/DilmiSandamini/recipe-api-gateway.git
