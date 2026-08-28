@@ -9,6 +9,9 @@
 ## Project Description
 This repository serves as the core platform layer for the Flavoriz microservices architecture. It includes essential Spring Cloud components such as the Config Server, Eureka Service Registry, and API Gateway to manage service discovery, routing, and centralized configuration
 
+## Project Demo Video
+[Click here to watch the Screen Recording](https://drive.google.com/file/d/1SFhLSV8d-3QbiE6hd8J6tIdy8cL7Q33E/view?usp=sharing)
+
 ## Technology Stack
 * Java 25
 * Spring Boot & Spring Cloud
